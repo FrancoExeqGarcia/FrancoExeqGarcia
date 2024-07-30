@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 - 🔭 **En búsqueda de oportunidades**: Actualmente estoy buscando mi primera oportunidad laboral relacionada con la programación.
 - 🌱 **Aprendiendo**: Estoy mejorando mis habilidades en desarrollo Full Stack, incluyendo tecnologías como React, .NET, y bases de datos SQL.
 - 👯 **Colaboración**: Me gustaría colaborar en proyectos de código abierto para ganar experiencia y contribuir a la comunidad.
